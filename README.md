@@ -4,7 +4,7 @@
 
 - **Article Title:** [Muon Imaging and its Application to the Study of Volcanoes: A PRISMA Systematic Review]
 - **Journal:** Frontiers in Earth Science
-- **Authors:** [Elizondo-Blanco, Daniel; Paniagua-Orozco, Luis;Gutiérrez-Calderon, Luis; Jiménez-Moya, Esteban and Arguedas-Cuendis, Sergio]
+- **Authors:** [Elizondo-Blanco, Daniel; Paniagua-Orozco, Luis; Gutiérrez-Calderon, Luis; Jiménez-Moya, Esteban and Arguedas-Cuendis, Sergio]
 - **Corresponding Author:** [Elizondo-Blanco, Daniel: eelizondob@uned.ac.cr]
 
 ## Description
