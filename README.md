@@ -1,4 +1,4 @@
-# Muon Imaging for the Study of Volcanoes: A PRISMA Systematic Review
+# Muon Imaging for Study Volcanoes: A PRISMA Systematic Review
 
 ## General Information
 
